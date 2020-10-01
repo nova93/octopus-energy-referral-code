@@ -11,6 +11,7 @@ main {
   color: white;
   text-align: center;
   padding: 1rem;
+  max-width: 470px;
 }
 
 pre {

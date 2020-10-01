@@ -11,3 +11,14 @@ main {
   color: white;
   text-align: center;
 }
+
+pre {
+  background-color: #008674;
+  padding: 2rem;
+  border-radius: 0.8rem;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
